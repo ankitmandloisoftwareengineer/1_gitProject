@@ -1,0 +1,1 @@
+git is version control system that track the channes of code in development and github is web hosetd that is use to host git repo and offer collebration 
